@@ -2,4 +2,3 @@ pandas
 streamlit
 pulp
 numpy
-altair==4.2.2
